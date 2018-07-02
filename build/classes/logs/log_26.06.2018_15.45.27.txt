@@ -1,0 +1,68 @@
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_10.06.2018_21.54.05.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_10.06.2018_23.08.00.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_10.06.2018_23.28.54.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_10.06.2018_23.43.17.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_10.06.2018_23.58.29.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_00.15.38.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_00.50.47.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_05.38.48.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_14.27.21.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_14.33.12.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_15.18.07.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_15.29.46.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_15.37.29.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_16.03.17.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_16.11.17.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_17.14.18.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_17.19.09.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_18.42.31.txt deleted successfully!
+juin 26, 2018 3:45:27 PM vanetsim.ErrorLog deleteold
+PLUS PRÉCIS: Old logfile /Users/saliha-benkerdagh/Desktop/VanetSimulator/VS/src/logs/log_11.06.2018_22.09.00.txt deleted successfully!
+juin 26, 2018 3:45:33 PM global
+CONFIG: 0MB accelerated VRAM found.
+juin 26, 2018 3:45:39 PM vanetsim.map.Map loadMap
+PRÉCIS: Loading map from Berlin_noTS.xml
+juin 26, 2018 3:45:43 PM vanetsim.map.Map load
+PRÉCIS: Finished loading map.
+juin 26, 2018 3:46:02 PM vanetsim.gui.controlpanels.EditVehicleControlPanel$1 actionPerformed
+PLUS PRÉCIS: Created the following amount of random vehicles: 1546 (1546 requested)
+juin 26, 2018 3:46:10 PM vanetsim.simulation.SimulationMaster startThread
+PLUS PRÉCIS: Simulation started.
+juin 26, 2018 3:46:10 PM vanetsim.simulation.SimulationMaster run
+PRÉCIS: Preparing simulation with 8 threads. Detected 1820 MB of free heap memory.
+juin 26, 2018 3:46:10 PM Worker startX:0 startY:0 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 3:46:10 PM Worker startX:1 startY:1 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 3:46:10 PM Worker startX:2 startY:2 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 3:46:10 PM Worker startX:3 startY:3 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 3:46:10 PM Worker startX:4 startY:4 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 7 regions.
+juin 26, 2018 3:46:10 PM Worker startX:5 startY:4 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 3:46:10 PM Worker startX:6 startY:5 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 3:46:10 PM Worker startX:7 startY:6 Worker constructor
+LE PLUS PRÉCIS: Created worker thread with 8 regions.
+juin 26, 2018 4:26:14 PM vanetsim.simulation.SimulationMaster stopThread
+PLUS PRÉCIS: Simulation stopped.

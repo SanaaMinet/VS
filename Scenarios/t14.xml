@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+	<!---->
+	<!--Generated on 01.05.2018 12:37:13-->
+	<Scenario>
+		<Settings>
+			<CommunicationEnabled>true</CommunicationEnabled>
+			<BeaconsEnabled>true</BeaconsEnabled>
+			<GlobalInfrastructureEnabled>true</GlobalInfrastructureEnabled>
+			<CommunicationInterval>160</CommunicationInterval>
+			<BeaconsInterval>240</BeaconsInterval>
+			<MixZonesEnabled>true</MixZonesEnabled>
+			<MixZoneRadius>10000</MixZoneRadius>
+			<AutoAddMixZones>false</AutoAddMixZones>
+			<RoutingMode>1</RoutingMode>
+			<VehicleRecyclingEnabled>true</VehicleRecyclingEnabled>
+			<FallBackInMixZonesEnabled>true</FallBackInMixZonesEnabled>
+			<FallBackInMixZonesFloodingOnly>true</FallBackInMixZonesFloodingOnly>
+			<MinTravelTimeForRecycling>60000</MinTravelTimeForRecycling>
+			<ARSULoggingEnabled>false</ARSULoggingEnabled>
+			<ARSUEncryptedLoggingEnabled>false</ARSUEncryptedLoggingEnabled>
+			<privacyLoggingEnabled>false</privacyLoggingEnabled>
+			<IDSLog></IDSLog>
+			<EventLog></EventLog>
+			<SilentPeriodsEnabled>false</SilentPeriodsEnabled>
+			<SilentPeriodDuration>2000</SilentPeriodDuration>
+			<SilentPeriodFrequency>10000</SilentPeriodFrequency>
+			<SlowEnabled>false</SlowEnabled>
+			<SlowTimeToChangePseudonym>3000</SlowTimeToChangePseudonym>
+			<SlowSpeedLimit>833</SlowSpeedLimit>
+			<idsActivated>false</idsActivated>
+			<beaconsLogged>10</beaconsLogged>
+			<fakeMessageInterval>10000</fakeMessageInterval>
+			<EVAMessageDelay>10</EVAMessageDelay>
+			<SpamDetection>false</SpamDetection>
+			<SpamMessageThreshold>3</SpamMessageThreshold>
+			<SpamTimeThreshold>240000</SpamTimeThreshold>
+			<TrafficModel>1</TrafficModel>
+		</Settings>
+		<Vehicles />
+		<MixZones />
+		<Events />
+		<EventSpots />
+	</Scenario>
